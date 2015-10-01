@@ -1,0 +1,3 @@
+[submodule "SubMod"]
+	path = SubMod
+	url = https://github.com/vmeena/SubMod.git
